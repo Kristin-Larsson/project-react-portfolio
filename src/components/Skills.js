@@ -20,21 +20,20 @@ const Skills = () => {
         <List>
           <SecondTitleLeft>Code</SecondTitleLeft>
           <MainText>
+            <li>Github</li>
             <li>MongoDB</li>
             <li>Node.js</li>
+            <li>Postman</li>
             <li>Styled components</li>
           </MainText>
         </List>
         <List>
-          <SecondTitleLeft>Upcomming</SecondTitleLeft>
+          <SecondTitleLeft>Other</SecondTitleLeft>
           <MainText>
             <li>Figma</li>
             <li>Slack</li>
-            <li>Github</li>
-            <li>VScode</li>
-            <li>Postman</li>
-            <li>Adobe photoshop</li>
-            <li>Adobe illustrator</li>
+            <li>Adobe Photoshop</li>
+            <li>Adobe Illustrator</li>
           </MainText>
         </List>
       </WrapperRow>
