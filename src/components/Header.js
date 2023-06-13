@@ -18,8 +18,8 @@ const Header = () => {
       <HeaderText>
         <Name>PROTFOLIO:</Name>
         <Name>KRISTIN LARSSON</Name>
-        <Frontend>frontend developer</Frontend>
-        <Designer>+ designer</Designer>
+        <Frontend>UX-designer</Frontend>
+        <Designer>+ codeing skills</Designer>
       </HeaderText>
     </Background>
   );
